@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  padding: 1.5rem 1.5rem 4rem;
+  padding: 1.5rem 1.5rem 4.5rem;
   border-bottom-left-radius: 1.4rem;
   border-bottom-right-radius: 1.4rem;
   background: hsl(225, 100%, 98%);
@@ -27,6 +27,19 @@ h2 {
   padding-bottom: 1.5rem;
   font-size: 0.93rem;
   border-bottom: 0.0001rem solid hsl(228, 12%, 34%);
+  color: hsl(228, 12%, 44%);
+}
+
+h3 {
+  margin: 0;
+  font-size: 3.5rem;
+}
+
+h4 {
+  margin: 0 0 1.6rem;
+  font-weight: 400;
+  letter-spacing: 0.25rem;
+  text-transform: uppercase;
   color: hsl(228, 12%, 44%);
 }
 
@@ -91,14 +104,15 @@ main {
 }
 
 .sm-accounts {
+  position: relative;
+  bottom: 2.5rem;
   text-align: center;
 }
 
 .sm-accounts div {
-  padding: 1.3rem;
+  padding: 1rem;
   margin-bottom: 1.5rem;
-  border-radius: 0.3rem;
-  background: hsl(227, 47%, 96%);
+  border-radius: 0.4rem;
 }
 
 .sm-accounts p {
@@ -107,7 +121,7 @@ main {
   justify-content: center;
 }
 
-.sm-accounts img {
+.sm-icon {
   height: 1.4rem;
 }
 
@@ -118,16 +132,35 @@ main {
   color: hsl(228, 12%, 44%);
 }
 
+.green {
+  margin-left: 0.3rem;
+  font-weight: 700;
+  color: hsl(163, 72%, 41%);
+}
+
+.red {
+  margin-left: 0.3rem;
+  font-weight: 700;
+  color: hsl(356, 69%, 56%);
+}
+
 .fb {
   border-top: 0.32rem solid hsl(208, 92%, 53%);
+  background: hsl(227, 47%, 96%);
 }
 
 .twitter {
   border-top: 0.32rem solid hsl(203, 89%, 53%);
+  background: hsl(227, 47%, 96%);
+}
+
+.ig {
+  background: hsl(227, 47%, 96%);
 }
 
 .yt {
   border-top: 0.32rem solid hsl(348, 97%, 39%);
+  background: hsl(227, 47%, 96%);
 }
 
 .dark-mode-text {
@@ -137,6 +170,16 @@ main {
 
 .dark-mode-header {
   background: hsl(232, 19%, 15%);
+  transition: all 90ms ease-in;
+}
+
+.dark-mode-card {
+  background: hsl(228, 28%, 20%);
+  transition: all 90ms ease-in;
+}
+
+.dark-mode-body {
+  background: hsl(230, 17%, 14%);
   transition: all 90ms ease-in;
 }
 
