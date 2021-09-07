@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/orkhai/social-media-dashboard-with-theme-switcher](https://github.com/orkhai/social-media-dashboard-with-theme-switcher)
+- Live Site URL: [https://orkhai.github.io/social-media-dashboard-with-theme-switcher/](https://orkhai.github.io/social-media-dashboard-with-theme-switcher)
 
 ## My process
 
