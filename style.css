@@ -68,12 +68,6 @@ label {
   color: hsl(228, 12%, 44%);
 }
 
-button {
-  padding: 0;
-  border: none;
-  background: transparent;
-}
-
 input {
   width: 3.2rem;
   height: 1.6rem;
