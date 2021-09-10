@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/orkhai/social-media-dashboard-with-theme-switcher](https://github.com/orkhai/social-media-dashboard-with-theme-switcher)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-dP5fY1_ap](https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-dP5fY1_ap)
 - Live Site URL: [https://orkhai.github.io/social-media-dashboard-with-theme-switcher](https://orkhai.github.io/social-media-dashboard-with-theme-switcher)
 
 ## My process
